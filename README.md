@@ -21,7 +21,7 @@ the function list:
 The best way to see it, of course, is with a concrete example:
 
 <details>
-<summary>example for _Array2String()</summary>
+<summary>example for ArrayCombinations</summary>
 
 ```AutoIt
 #include "ArrayCombinations.au3"
